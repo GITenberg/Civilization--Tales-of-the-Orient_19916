@@ -1,0 +1,34 @@
+_repo: Civilization--Tales-of-the-Orient_19916
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Motte, Ellen N. (Ellen Newbold)
+    aliases:
+    - Motte, Ellen N. la (Ellen Newbold)
+    - La Motte, Ellen Newbold
+    birthdate: 1873
+    deathdate: 1961
+    gutenberg_agent_id: '8965'
+    url: http://www.gutenberg.org/2009/agents/8965
+description: ''
+gutenberg_issued: '2006-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19916'
+  lccn: '19006867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'East and West -- Fiction'
+- !lcc 'PS'
+tableOfContents: The yellow streak -- On the heights -- Homesick -- Civilization --
+  Misunderstanding -- Prisoners -- Canterbury chimes -- Under a wineglass -- Cholera
+  -- Cosmic justice.
+title: 'Civilization: Tales of the Orient'
+url: http://www.gutenberg.org/ebooks/19916
